@@ -11,3 +11,5 @@ Autor: Gayathridevi Chithambaram
 
 4.  Attachments(image,Audio,Video) code
 5. Hiding the Last seen Implemented
+6. Adding the Audio call Feature
+7. Adding the video call Feature
